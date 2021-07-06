@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BottomNavigationBar">
+        <!-- Options -->
+        <attr name="iconSize" format="dimension" />
+        <attr name="activeColor" format="color" />
+        <attr name="inactiveColor" format="color" />
+        <attr name="textEnabled" format="boolean" />
+    </declare-styleable>
+</resources>
